@@ -4,6 +4,7 @@
 ## 🔭 What I'm Working On
 - Currently diving deep into algorithms and data structures to enhance my problem-solving skills.
 - Building exciting projects using Java and Android Studio to create impactful mobile applications.
+- React Development
 
 ## 🌱 What I'm Learning
 - Constantly improving my skills in C and Java to write efficient and scalable code.

@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhash</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate BTech CSE student currently in my 3rd year, with a knack for software development and design.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate BTech CSE student, with a knack for software development and design.</h3>
 
 ## 🔭 What I'm Working On
 - Currently diving deep into algorithms and data structures to enhance my problem-solving skills.
 - Building exciting projects using Java and Flutter to create impactful mobile applications.
 
 ## 🌱 What I'm Learning
-- Constantly improving my skills in C and Java to write efficient and scalable code.
+- Constantly improving my skills in C, Java and Dart to write efficient and scalable code.
 - Mastering Mobile development to craft seamless user experiences.
 - Flutter Development.
 

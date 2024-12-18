@@ -3,12 +3,12 @@
 
 ## 🔭 What I'm Working On
 - Currently diving deep into algorithms and data structures to enhance my problem-solving skills.
-- Building exciting projects using Java and Android Studio to create impactful mobile applications.
+- Building exciting projects using Java and Flutter to create impactful mobile applications.
 
 ## 🌱 What I'm Learning
 - Constantly improving my skills in C and Java to write efficient and scalable code.
-- Mastering Android development to craft seamless user experiences.
-- React Development.
+- Mastering Mobile development to craft seamless user experiences.
+- Flutter Development.
 
 ## 🚀 My Goals
 - Securing an internship or job opportunity where I can apply my knowledge and continue to grow as a software developer.

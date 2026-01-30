@@ -6,7 +6,7 @@
 
 ## 🌱 What I'm Learning
 - Constantly improving my skills in C, Java, Python and Dart to write efficient and scalable code.
-- Flutter Development.
+- Embedded Software Engineering.
 - Web Develpment.
 
 ## 🚀 My Goals

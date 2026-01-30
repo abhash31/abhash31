@@ -18,10 +18,6 @@
 ## 🚀 About Me
 I'm a passionate **BTech CSE fresher** with a strong foundation in software development and design. I love building impactful applications and constantly pushing my boundaries in coding.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dW4lulfdYJ1WMCF9ZC/giphy.gif" width="60" height="60"/>
-</div>
-
 ## 🔭 Currently Working On
 <div align="center">
   <b>Building exciting projects</b> using modern technologies to solve real-world problems

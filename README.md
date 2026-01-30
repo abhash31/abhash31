@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%20There!%20👋;Abhash%20Here;Full-Stack%20Developer;BTech%20CSE%20Fresher;Let's%20Build%20Something%20Awesome!&font=Fira%20Code&center=true&pause=1000&size=32&color=00D4AA" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%20There!%20👋;Abhash%20Here;BTech%20CSE%20;Let's%20Build%20Something%20Awesome!&font=Fira%20Code&center=true&pause=1000&size=32&color=00D4AA" alt="Typing SVG"/>
 
   <h1>
     <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/rocket.png" width="40"> 
@@ -38,7 +38,7 @@
 
 | **What I'm Working On** | **What I'm Learning** | **My Goals** |
 |------------------------|----------------------|-------------|
-| 🐍 Python Projects | 🔧 Embedded Engineering | 🎯 Land Internship |
+| 🐍 Python Projects | 🔧 Embedded Engineering | 🎯 Land Job |
 | ☕ Java Applications | 🌐 Web Development | 🚀 Open Source |
 | 🐦 Flutter Apps | 📚 DSA Mastery | 💼 Full-Time Role |
 
@@ -61,9 +61,9 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-[![Abhash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA)](https://github.com/anuraghazra/github-readme-stats)
+[![Abhash's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhash31&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhash31&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 

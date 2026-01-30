@@ -5,10 +5,10 @@
   <h1>Abhash</h1>
   
   <p>
-    <img src="https://img.shields.io/badge/BTech-CSE-brightgreen?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="BTech CSE 2025"/>
+    <img src="https://img.shields.io/badge/BTech-CSE%202025-brightgreen?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="BTech CSE 2025"/>
     <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="Python"/>
     <img src="https://img.shields.io/badge/Flutter-Developer-orange?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-    <img src="https://img.shields.io/badge/Open%20to%20Internships-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Work"/>
+    <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Work"/>
   </p>
 
 </div>

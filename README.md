@@ -1,85 +1,69 @@
 <div align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there!%20👋;Abhash%20Here!;BTech%20CSE%20Fresher;Full-Stack%20Developer;Passionate%20Coder&font=Fira%20Code&center=true&pause=1000&size=28" alt="Typing SVG" />
-
-  <h1>Abhash</h1>
   
+  <!-- Animated Header -->
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%20There!%20👋;Abhash%20Here;Full-Stack%20Developer;BTech%20CSE%20Fresher;Let's%20Build%20Something%20Awesome!&font=Fira%20Code&center=true&pause=1000&size=32&color=00D4AA" alt="Typing SVG"/>
+
+  <h1>
+    <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/rocket.png" width="40"> 
+    Abhash 
+    <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/laptop.png" width="40">
+  </h1>
+
+  <!-- Status Badges -->
   <p>
-    <img src="https://img.shields.io/badge/BTech-CSE-brightgreen?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="BTech CSE"/>
-    <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="Python"/>
-    <img src="https://img.shields.io/badge/Flutter-Developer-orange?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-    <img src="https://img.shields.io/badge/Open%20to%20Internships-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Internships"/>
+    <img src="https://img.shields.io/badge/BTech-CSE%20|%202026-brightgreen?style=for-the-badge&logo=university&logoColor=white" alt="BTech CSE"/>
+    <img src="https://img.shields.io/badge/Open%20for%20Jobs-%F0%9F%9A%80-blue?style=for-the-badge&logo=briefcase&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python%20|%20Java%20|%20Flutter-yellow?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDQ1IDQ1Ij48cGF0aCBmaWxsPSIjMzM4MEJFIiBkPSJNMTUuNywzNi4xYzAsMS4zLTEsMi4zLTIuMywyLjNjLTEuMywwLTIuMy0xLTIuMy0yLjN2LTUuOGMwLTEuMywxLTIuMywyLjMtMi4zYzEuMywwLDIuMywxLDIuMywyLjNWMzYuMXogTTI4LjcsMzYuMWMwLDEuMy0xLDIuMy0yLjMsMi4zYy0xLjMsMC0yLjMtMS0yLjMtMi4zdjUtOGMwLTEuMywxLTIuMywyLjMtMi4zYzEuMywwLDIuMywxLDIuMywyLjNWMzYuMXogTTQyLDMyLjljMCwxLjMtMSwyLjMtMi4zLDIuM2gtNS44YzEuMywwLDIuMy0xLDIuMy0yLjNjMC0xLjMtMS0yLjMtMi4zLTIuM2gtNS44YzEuMywwLDIuMy0xLDIuMy0yLjNjMC0xLjMtMS0yLjMtMi4zLTIuM2gtNS44YzEuMywwLDIuMy0xLDIuMy0yLjNjMC0xLjMtMS0yLjMtMi4zLTIuM2gtNS44YzEuMywwLDIuMy0xLDIuMy0yLjNjMC0xLjMtMS0yLjMtMi4zLTIuM2gtNS44YzEuMywwLDIuMy0xLDIuMy0yLjNjMC0xLjMtMS0yLjMtMi4zLTIuM2gtNS44YzEuMywwLDIuMy0xLDIuMy0yLjNjMC0xLjMtMS0yLjMtMi4zLTIuM2gtNS44YzEuMywwLDIuMy0xLDIuMy0yLjNjMC0xLjMtMS0yLjMtMi4zLTIuM2gtNS44YzEuMywwLDIuMy0xLDIuMy0yLjNjMC0xLjMtMS0yLjMtMi4zLTIuM2gtNS44YzEuMywwLDIuMy0xLDIuMy0yLjNjMC0xLjMtMS0yLjMtMi4zLTIuM2gtNS44YzEuMywwLDIuMy0xLDIuMy0yLjNjMC0xLjMtMS0yLjMtMi4zLTIuM2gtNS43Yy0xLjMsMC0yLjMtMS0yLjMtMi4zdi01LjhjMC0xLjMsMS0yLjMsMi4zLTIuM2gxNS43YzEuMywwLDIuMywxLDIuMywyLjN2NS44YzAsMS4zLTEsMi4zLTIuMywyLjNIMzYuMmMxLjMsMCwyLjMsMSwyLjMsMi4zYzAsMS4zLTEsMi4zLTIuMywyLjNIMzAuOWMxLjMsMCwyLjMsMSwyLjMsMi4zYzAsMS4zLTEsMi4zLTIuMywyLjNIMjUuNmMxLjMsMCwyLjMsMSwyLjMsMi4zYzAsMS4zLTEsMi4zLTIuMywyLjNIMjAuM2MxLjMsMCwyLjMsMSwyLjMsMi4zYzAsMS4zLTEsMi4zLTIuMywyLjNIMTUuNWMxLjMsMCwyLjMsMSwyLjMsMi4zYzAsMS4zLTEsMi4zLTIuMywyLjNIMTAuMmMxLjMsMCwyLjMsMSwyLjMsMi4zYzAsMS4zLTEsMi4zLTIuMywyLjNINC45YzEuMywwLDIuMywxLDIuMywyLjNjMCwxLjMtMSwyLjMtMi4zLDIuM0g0LjljMS4zLDAsMi4zLDEsMi4zLDIuM2MwLDEuMy0xLDIuMy0yLjMsMi4zSDEuOGMtMS4zLDAtMi4zLTEtMi4zLTIuM3YtNS44YzAtMS4zLDEtMi4zLDIuMy0yLjNIMTYuOWMtMS4zLDAtMi4zLTEtMi4zLTIuM3YtNS44YzAtMS4zLDEtMi4zLDIuMy0yLjNIMjguOGMtMS4zLDAtMi4zLTEtMi4zLTIuM3YtNS44YzAtMS4zLDEtMi4zLDIuMy0yLjNIMzkuOWMtMS4zLDAtMi4zLTEtMi4zLTIuM3YtNS44YzAtMS4zLDEtMi4zLDIuMy0yLjNINDIuMGMxLjMsMCwyLjMsMSwyLjMsMi4zVjMyLjl6Ii8+PC9zdmc+" width="120"/>
   </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
-I'm a passionate **BTech CSE fresher** with a strong foundation in software development and design. I love building impactful applications and constantly pushing my boundaries in coding.
-
+## 🌟 About Me
 <div align="center">
-  <img src="https://media.giphy.com/media/dW4lulfdYJ1WMCF9ZC/giphy.gif" width="60" height="60"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtteXJ3b3V0b3ZoYW5pYnlscWppb3h5eDBteXJuYnl2bG1hZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MY2NrRGw2c9m72A48o/giphy.gif" width="100" height="100"/>
 </div>
 
-## 🔭 Currently Working On
-<div align="center">
-  <b>Building exciting projects</b> using modern technologies to solve real-world problems
-</div>
+**Passionate BTech CSE Fresher** 🧑‍💻 | **Full-Stack Developer** | **UI/UX Enthusiast** 🎨
 
-## 🌱 Currently Learning
-- **Core Languages**: C, Java, Python, Dart
-- **Embedded Software Engineering**
-- **Modern Web Development**
-- **System Design & Architecture**
-
-## 🎯 Goals
-- 🎯 Secure an **internship/job** to kickstart my software development career
-- 🚀 Contribute to **open-source projects**
-- 📚 Master **advanced algorithms & data structures**
+- 🔭 Building **real-world applications** with Python, Java, Flutter
+- 🌱 Mastering **Embedded Systems** & **Web Development**
+- 💡 Creating **scalable, efficient solutions**
+- ⚡ Fun fact: I can code while listening to lo-fi beats! 🎧
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 Current Focus
 
+| **What I'm Working On** | **What I'm Learning** | **My Goals** |
+|------------------------|----------------------|-------------|
+| 🐍 Python Projects | 🔧 Embedded Engineering | 🎯 Land Internship |
+| ☕ Java Applications | 🌐 Web Development | 🚀 Open Source |
+| 🐦 Flutter Apps | 📚 DSA Mastery | 💼 Full-Time Role |
+
+---
+
+## 🛠️ Technology Arsenal
+
+### 🔥 Languages & Frameworks
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,dart,flutter,html,css,js" />
+</div>
+
+### 🗄️ Database & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,photoshop,qt" />
+</div>
+
+---
+
+## 📊 GitHub Stats
 <div align="center">
 
-### Languages & Frameworks
-<table>
-<tr>
-  <td>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50"/>
-  </td>
-  <td>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50"/>
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="50"/>
-  </td>
-</tr>
-<tr>
-  <td>
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50"/>
-  </td>
-  <td>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
-  </td>
-</tr>
-</table>
+[![Abhash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA)](https://github.com/anuraghazra/github-readme-stats)
 
-### Database & Tools
-<table>
-<tr>
-  <td>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50"/>
-  </td>
-  <td>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="50"/>
-  </td>
-</tr>
-</table>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -87,21 +71,13 @@ I'm a passionate **BTech CSE fresher** with a strong foundation in software deve
 
 <div align="center">
 
-## 📫 Get In Touch
+## 📬 Let's Connect!
 <p>
   <a href="mailto:abhash031@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-abhash031@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-abhash031@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-**"Code is like humor. When you have to explain it, it's bad!" - Cory House**
-
-</div>
-
-<div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=abhash31&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-  
-  <p>Made with ❤️ using GitHub & Markdown</p>
-  
-</div>

@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there!%20👋;Abhash%20Here!;Embedded%20%26%20Firmware%20Engineer;STM32%20Enthusiast;Full-Stack%20Developer&font=Fira%20Code&center=true&pause=1000&size=28" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there!%20👋;Abhash%20Here!;Embedded%20%26%20Firmware%20Engineer;STM32%20Enthusiast;&font=Fira%20Code&center=true&pause=1000&size=28" alt="Typing SVG" />
 
   <h1>Abhash</h1>
   

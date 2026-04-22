@@ -1,14 +1,14 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there!%20👋;Abhash%20Here!;Embedded%20Software%20Engineer;Firmware%20Developer;STM32%20Enthusiast&font=Fira%20Code&center=true&pause=1000&size=28" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there!%20👋;Abhash%20Here!;Embedded%20%26%20Firmware%20Engineer;STM32%20Enthusiast;Full-Stack%20Developer&font=Fira%20Code&center=true&pause=1000&size=28" alt="Typing SVG" />
 
   <h1>Abhash</h1>
   
   <p>
-    <img src="https://img.shields.io/badge/Role-Embedded%20Software%20Engineer-blue?style=for-the-badge&logo=cpu&logoColor=white" alt="Embedded Engineer"/>
-    <img src="https://img.shields.io/badge/Focus-STM32%20%26%20Firmware-red?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
-    <img src="https://img.shields.io/badge/BTech-CSE%202025-brightgreen?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="BTech CSE 2025"/>
-    <img src="https://img.shields.io/badge/Python-Comfortable-yellow?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+    <img src="https://img.shields.io/badge/Embedded-Software%20Engineer-blueviolet?style=for-the-badge&logo=microchip&logoColor=white" alt="Embedded Engineer"/>
+    <img src="https://img.shields.io/badge/STM32-Specialist-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=035a92" alt="STM32"/>
+    <img src="https://img.shields.io/badge/LlamaIndex-AI%20Data%20Framework-6a4fbc?style=for-the-badge&logo=python&logoColor=white" alt="LlamaIndex"/>
+    <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Work"/>
   </p>
 
 </div>
@@ -16,23 +16,23 @@
 ---
 
 ## 🚀 About Me
-I am an **Embedded Software & Firmware Engineer** specializing in bridging the gap between hardware and software. While my core focus lies in low-level programming and microcontrollers, I maintain a strong background in **Full-Stack Development** to build integrated, end-to-end solutions.
+I'm a **BTech CSE Fresher** specializing in **Embedded Software and Firmware Engineering**. I bridge the gap between hardware and software, moving from low-level STM32 development to high-level application building with Flutter and AI-driven data indexing.
 
 ## 🔭 Currently Working On
 <div align="center">
-  <b>Firmware Development for STM32</b> ecosystems, optimizing real-time performance and peripheral interfacing.
+  <b>Firmware Development for STM32</b> and optimizing hardware-software interactions.
 </div>
 
-## 🌱 Skills & Specializations
-- **Embedded Systems**: STM32 (Bare Metal & HAL), RTOS, UART/I2C/SPI
-- **Languages**: C (Primary), Java, Python, Dart
-- **Full-Stack Ecosystem**: Flutter (Mobile), HTML/CSS/JS (Web)
-- **Architecture**: Hardware-Software Co-design & System Design
+## 🌱 Tech Focus
+- **Embedded Systems**: Bare-metal programming & RTOS on **STM32** (ARM Cortex-M).
+- **AI & RAG**: Building intelligent search and data agents using **LlamaIndex**.
+- **Cross-Platform**: Developing performant mobile apps with **Flutter**.
+- **Languages**: C (Firmware), Python (AI/Scripts), Java, and Dart.
 
 ## 🎯 Goals
-- 🛠️ Develop robust, power-efficient firmware for industrial/consumer IoT
-- 🚀 Deepen expertise in **ARM Cortex-M** architectures
-- 📚 Bridge Embedded systems with Modern Web/Mobile interfaces
+- 🎯 Deep dive into **Real-Time Operating Systems (RTOS)** and Driver development.
+- 🚀 Integrate **Edge AI** (TinyML) into embedded hardware.
+- 📚 Master **System-on-Chip (SoC)** architecture.
 
 ---
 
@@ -42,17 +42,19 @@ I am an **Embedded Software & Firmware Engineer** specializing in bridging the g
 
 ### 🔌 Embedded & Low-Level
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,qt,linux,raspberrypi" />
-  </div>
-
-### 🌐 High-Level & Mobile
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,python,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+  <p><b>Hardware:</b> STM32, ARM Cortex-M, GPIO, UART, SPI, I2C</p>
 </div>
 
-### 🗄️ Database & Design
+### 🌐 App & Web Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,photoshop,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,html,css,js" />
+</div>
+
+### 🗄️ AI & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,vscode,github,photoshop,qt" />
+  <p><b>Frameworks:</b> LlamaIndex (RAG), Flutter Flow</p>
 </div>
 
 </div>
@@ -68,7 +70,7 @@ I am an **Embedded Software & Firmware Engineer** specializing in bridging the g
   </a>
 </p>
 
-**"Hardware is the soul, Firmware is the spirit, and Software is the personality."**
+**"Hardware is where the software lives. If you don't respect the home, the guest won't behave!"**
 
 </div>
 

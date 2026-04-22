@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 About Me
-I'm a **BTech CSE Fresher** specializing in **Embedded Software and Firmware Engineering**. I bridge the gap between hardware and software, moving from low-level STM32 development to high-level application building with Flutter and AI-driven data indexing.
+Just a guy specializing in **Embedded Software and Firmware Engineering**. I bridge the gap between hardware and software, moving from low-level STM32 development to high-level application building with Flutter and AI-driven data indexing.
 
 ## 🔭 Currently Working On
 <div align="center">

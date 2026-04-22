@@ -54,7 +54,7 @@ Just a guy specializing in **Embedded Software and Firmware Engineering**. I bri
 ### 🗄️ AI & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,vscode,github,photoshop,qt" />
-  <p><b>Frameworks:</b> LlamaIndex (RAG), Flutter Flow</p>
+  <p><b>Frameworks:</b> LlamaIndex (RAG)</p>
 </div>
 
 </div>

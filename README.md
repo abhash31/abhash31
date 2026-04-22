@@ -33,7 +33,7 @@ I am an **Embedded Software & Firmware Engineer** specializing in bridging the g
 ## 🎯 Goals
 - 🛠️ Master **Digital Signal Processing (DSP)** on ARM Cortex-M cores.
 - 🚀 Develop end-to-end **IoT ecosystems** (Firmware + Mobile App + Cloud).
-- 📚 Contribute to the **Embedded Rust** or **FreeRTOS** communities.
+- 📚 Build **real world products**.
 
 ---
 

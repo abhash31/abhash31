@@ -1,14 +1,14 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there!%20👋;Abhash%20Here!;BTech%20CSE%20Fresher;Full-Stack%20Developer;Passionate%20Coder&font=Fira%20Code&center=true&pause=1000&size=28" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there!%20👋;Abhash%20Here!;Embedded%20%26%20Firmware%20Engineer;STM32%20Enthusiast;Full-Stack%20Capable&font=Fira%20Code&center=true&pause=1000&size=28" alt="Typing SVG" />
 
   <h1>Abhash</h1>
   
   <p>
-    <img src="https://img.shields.io/badge/BTech-CSE%202025-brightgreen?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="BTech CSE 2025"/>
-    <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="Python"/>
-    <img src="https://img.shields.io/badge/Flutter-Developer-orange?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-    <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Work"/>
+    <img src="https://img.shields.io/badge/Role-Embedded%20Software%20Engineer-blueviolet?style=for-the-badge&logo=micro-dot-info&logoColor=white" alt="Embedded Engineer"/>
+    <img src="https://img.shields.io/badge/Hardware-STM32-blue?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+    <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+    <img src="https://img.shields.io/badge/Status-Active%20Contributor-brightgreen?style=for-the-badge" alt="Active"/>
   </p>
 
 </div>
@@ -16,23 +16,24 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate **BTech CSE fresher** with a strong foundation in software development and design. I love building impactful applications and constantly pushing my boundaries in coding.
+I am an **Embedded Software & Firmware Engineer** specializing in bridging the gap between hardware and high-level applications. With a foundation in BTech CSE, I focus on building efficient, low-latency systems and robust firmware architectures.
 
 ## 🔭 Currently Working On
 <div align="center">
-  <b>Building exciting projects</b> using modern technologies to solve real-world problems
+  <b>Low-level drivers and RTOS-based applications</b> for STM32 microcontrollers, 
+  integrating them with modern cross-platform interfaces.
 </div>
 
-## 🌱 Currently Learning
-- **Core Languages**: C, Java, Python, Dart
-- **Embedded Software Engineering**
-- **Modern Web Development**
-- **System Design & Architecture**
+## 🌱 Expert Toolkit
+- **Embedded & Firmware**: STM32 (HAL/LL), Bare-metal C, RTOS, Bare-Metal Programming.
+- **Cross-Platform**: Building sleek UIs with **Flutter** & **Dart**.
+- **Backend/Core**: Java & Python for tooling and system logic.
+- **Web**: Crafting responsive dashboards with HTML, CSS, and JavaScript.
 
 ## 🎯 Goals
-- 🎯 Secure an **internship/job** to kickstart my software development career
-- 🚀 Contribute to **open-source projects**
-- 📚 Master **advanced algorithms & data structures**
+- 🛠️ Master **Digital Signal Processing (DSP)** on ARM Cortex-M cores.
+- 🚀 Develop end-to-end **IoT ecosystems** (Firmware + Mobile App + Cloud).
+- 📚 Contribute to the **Embedded Rust** or **FreeRTOS** communities.
 
 ---
 
@@ -40,14 +41,20 @@ I'm a passionate **BTech CSE fresher** with a strong foundation in software deve
 
 <div align="center">
 
-### 🔥 Languages & Frameworks
+### ⚡ Hardware & Low-Level
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,dart,flutter,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,qt" />
+  <p><b>STM32CubeIDE | FreeRTOS | Keil uVision | I2C/SPI/UART</b></p>
 </div>
 
-### 🗄️ Database & Tools
+### 📱 Application & Web Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,photoshop,qt" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,html,css,js" />
+</div>
+
+### 🗄️ Database & Design
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,python,photoshop" />
 </div>
 
 </div>
@@ -63,7 +70,7 @@ I'm a passionate **BTech CSE fresher** with a strong foundation in software deve
   </a>
 </p>
 
-**"Code is like humor. When you have to explain it, it's bad!" - Cory House**
+**"Hardware is the part of a computer that you can kick; software is the part you can only curse."**
 
 </div>
 
@@ -71,6 +78,6 @@ I'm a passionate **BTech CSE fresher** with a strong foundation in software deve
   
   <img src="https://komarev.com/ghpvc/?username=abhash31&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
   
-  <p>Made with ❤️ using GitHub & Markdown</p>
+  <p>Made with ❤️ and Debuggers</p>
   
 </div>
